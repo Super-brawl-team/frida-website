@@ -5,7 +5,7 @@ code-signing policies are at play -- i.e. on jailed systems when running an app
 without a debugger having been attached. In such cases, override the [Gadget][]
 `code_signing` option and set it to `required`.
 
-You can download `gum-graft` from the [releases page][].
+You can download `gum-graft` from the [releases page][]. Warning : only macOS can run gum craft
 
 {% highlight bash %}
 Usage:
